@@ -5,7 +5,7 @@
        
 <p align="left">
 <a href="https://twitter.com/iiceman92" target="blank"><img
-        src="https://img.shields.io/twitter/follow/peakcx92?logo=twitter&style=for-the-badge" alt="iiceman92"/></a>
+        src="https://img.shields.io/twitter/follow/iiceman92?logo=twitter&style=for-the-badge" alt="iiceman92"/></a>
 </p>
 
 ### I'm Estebán 😄
@@ -16,7 +16,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arktik92&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=iiceman92&show_icons=true&theme=merko)
+![Github stats](https://github-readme-stats.vercel.app/api?username=arktik92&show_icons=true&theme=merko)
 
 
 <!--
