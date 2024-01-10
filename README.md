@@ -14,6 +14,9 @@
 - 🌱 I’m currently learning iOS.
 - 📫 Contact me on Twitter [iiceman92](https://twitter.com/iiceman92).
 
+- Link to [Repositories](https://github.com/arktik92?tab=repositories)
+- Link to [Estebán's Website](https://github.io/arktik92)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arktik92&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=arktik92&show_icons=true&theme=merko)
