@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/arktik92"><img src="https://api.daily.dev/devcards/v2/DXlzzuJnhPak8IzURRK2Z.png?type=default&r=0y4" width="356" alt="esteban semellier's Dev Card"/></a>
+
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=arktik92&label=Profile%20views&color=0e75b6&style=flat"
                      alt="arktik92"/>
