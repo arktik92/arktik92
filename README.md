@@ -1,5 +1,3 @@
-<a href="https://app.daily.dev/arktik92"><img src="https://api.daily.dev/devcards/v2/DXlzzuJnhPak8IzURRK2Z.png?type=default&r=0y4" width="356" alt="esteban semellier's Dev Card"/></a>
-
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=arktik92&label=Profile%20views&color=0e75b6&style=flat"
                      alt="arktik92"/>
@@ -9,6 +7,7 @@
 <a href="https://twitter.com/iiceman92" target="blank"><img
         src="https://img.shields.io/twitter/follow/iiceman92?logo=twitter&style=for-the-badge" alt="iiceman92"/></a>
 </p>
+<a href="https://app.daily.dev/arktik92"><img src="https://api.daily.dev/devcards/v2/DXlzzuJnhPak8IzURRK2Z.png?type=default&r=0y4" width="356" alt="esteban semellier's Dev Card"/></a>
 
 ### I'm Estebán 😄
 
